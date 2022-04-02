@@ -82,6 +82,26 @@ a.navbar-item.is-active {
         min-width: 25vmax;
         margin: 0.5rem;
     }
+
+        #contact-button {
+        margin: 0.5rem auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    svg {
+        transition: all 0.15s ease-in-out;
+        margin: auto 0.75vmax;
+
+        &:hover {
+            transform: scale(1.10);
+            filter: opacity(0.75);
+        }
+    }
+
+    hr {
+        background-color: black;
+    }
 }
 
 #contact {
