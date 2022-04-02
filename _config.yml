@@ -5,8 +5,9 @@ markdown: kramdown
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
+
 # Title of the Site
-title: 코딩하는 고릴라123156
+title: 코딩하는 고릴라
 # Description of the Site
 description: CODING LOVER
 # URL of Image of the Site
@@ -21,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
+email: wo9868@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
@@ -42,9 +43,9 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: 이재성
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://ifh.cc/g/j0nACP.jpg
 # 60 Words About the Author
-author-about: 나의소개
+author-about: 자기소개
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
