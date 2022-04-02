@@ -10,7 +10,7 @@ layout: compress
   {% include navbar.html %}
   {% include showcase.html %}
   {% include about.html
-<!--  {% include stack.html %}-->
+  {% include stack.html %}
   {% include contact.html %}
   <!--Footer begins here-->
   {% include footer.html %}
@@ -19,7 +19,7 @@ layout: compress
   window.addEventListener("scroll", function (event) {
     var scroll = this.scrollY;
     var item = document.getElementsByClassName('navbar-item');
-    console.log(scroll);
+    // console.log(scroll);
     if (scroll < 565) {
       item[1].classList.add('is-active');
       item[2].classList.remove('is-active');
