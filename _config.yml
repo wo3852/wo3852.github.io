@@ -5,7 +5,6 @@ markdown: kramdown
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
-A CUSTOMIZABLE JEKYLL PORTFOLIO THEME
 # Title of the Site
 title: 코딩하는 고릴라123156
 # Description of the Site
