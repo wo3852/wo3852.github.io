@@ -78,12 +78,6 @@ a.navbar-item.is-active {
         }
     }
 
-    #stack_img:hover {
-      transform: scale(1.5);
-      transition: transform 1s;
-      filter: brightness(70%);
-    }
-
     a {
         min-width: 25vmax;
         margin: 0.5rem;
@@ -107,6 +101,10 @@ a.navbar-item.is-active {
 
     hr {
         background-color: black;
+    }
+    .stack_text{
+        font-size:16px;
+        color:grey;
     }
 }
 
