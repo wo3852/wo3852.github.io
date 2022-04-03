@@ -78,6 +78,12 @@ a.navbar-item.is-active {
         }
     }
 
+    .stack_img {
+      transform: scale(1.5);
+      transition: transform 1s;
+      filter: brightness(70%);
+    }
+
     a {
         min-width: 25vmax;
         margin: 0.5rem;
@@ -87,16 +93,6 @@ a.navbar-item.is-active {
         margin: 0.5rem auto;
         display: flex;
         justify-content: center;
-    }
-
-    img {
-        transition: all 0.15s ease-in-out;
-        margin: auto 0.75vmax;
-
-        &:hover {
-            transform: scale(1.10);
-            filter: opacity(0.75);
-        }
     }
 
     svg {
