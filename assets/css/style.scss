@@ -78,7 +78,7 @@ a.navbar-item.is-active {
         }
     }
 
-    .stack_img {
+    .stack_img:hover {
       transform: scale(1.5);
       transition: transform 1s;
       filter: brightness(70%);
