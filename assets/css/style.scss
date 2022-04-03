@@ -78,6 +78,12 @@ a.navbar-item.is-active {
         }
     }
 
+    #stack_img:hover {
+      transform: scale(1.5);
+      transition: transform 1s;
+      filter: brightness(70%);
+    }
+
     a {
         min-width: 25vmax;
         margin: 0.5rem;
@@ -102,51 +108,6 @@ a.navbar-item.is-active {
     hr {
         background-color: black;
     }
-
-    #menu{
-      position: relative;
-      display: inline-block;
-    }
-
-    stack_img {
-      display: flex;
-      cursor: pointer;
-    }
-
-    /* 말풍선 적절한 top 과 margin-left 로 위치조정 */
-    .arrow_box {
-      display: none;
-      position: absolute;
-      width: 100px;
-      padding: 8px;
-      left: 0;
-      -webkit-border-radius: 8px;
-      -moz-border-radius: 8px;
-      border-radius: 8px;
-      background: #333;
-      color: #fff;
-      font-size: 14px;
-    }
-
-    .arrow_box:after {
-      position: absolute;
-      bottom: 100%;
-      left: 50%;
-      width: 0;
-      height: 0;
-      margin-left: -10px;
-      border: solid transparent;
-      border-color: rgba(51, 51, 51, 0);
-      border-bottom-color: #333;
-      border-width: 10px;
-      pointer-events: none;
-      content: ' ';
-    }
-
-    stack_img:hover + p.arrow_box {
-      display: block;
-    }
-
 }
 
 #contact {
