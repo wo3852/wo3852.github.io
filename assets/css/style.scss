@@ -78,6 +78,11 @@ a.navbar-item.is-active {
         }
     }
 
+    #stack_img{
+       height:100%
+       width:100%
+    }
+
     #stack_img:hover {
       transform: scale(1.5);
       transition: transform 1s;
