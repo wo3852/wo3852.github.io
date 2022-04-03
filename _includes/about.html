@@ -30,7 +30,11 @@
                 <a target="_blank" class="has-text-black"><i class="fab fa-facebook"></i></a>
                 {% endunless %}
 
-                <a target="_blank" class="has-text-black" id ="stack_img"><img src="../assets/stack_img/css.jpg"/>CSS</a>
+                <a target="_blank" class="has-text-black">
+                    <div id ="stack_img">
+                        <img src="../assets/stack_img/css.jpg"/>CSS
+                    </div>
+                </a>
 
                 {% unless site.twitter_username == %}
                 <a href="http://www.twitter.com/{{site.twitter_username}}" target="_blank" class="has-text-black"><i class="fab fa-twitter"></i></a>
