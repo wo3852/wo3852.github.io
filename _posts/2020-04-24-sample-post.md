@@ -1,4 +1,5 @@
 ---
+<center>
 title: Sample Post
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
@@ -69,3 +70,4 @@ Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molesti
 
 **YouTUbe Videos will look like:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
