@@ -16,14 +16,14 @@ tags:
 
 >**제한사항**
 
-<ul>
-<li>1 ≤  numbers 의 길이 ≤ 9
 
-<ul>
-<li>0 ≤  numbers 의 모든 원소 ≤ 9</li>
-<li> numbers 의 모든 원소는 서로 다릅니다.</li>
-</ul></li>
-</ul>
+1 ≤  numbers 의 길이 ≤ 9
+
+
+0 ≤  numbers 의 모든 원소 ≤ 9
+ numbers 의 모든 원소는 서로 다릅니다.
+
+
 
 >**입출력 예**
 
@@ -36,15 +36,15 @@ tags:
 
 입출력 예 #1
 
-<ul>
-<li>5, 9가  numbers 에 없으므로, 5 + 9 = 14를 return 해야 합니다.</li>
-</ul>
+
+5, 9가  numbers 에 없으므로, 5 + 9 = 14를 return 해야 합니다.
+
 
 입출력 예 #2
 
-<ul>
-<li>1, 2, 3이  numbers 에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.</li>
-</ul>
+
+1, 2, 3이  numbers 에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.
+
 
 >**문제 풀이**
 

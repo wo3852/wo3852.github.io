@@ -17,12 +17,12 @@ divisor로 나누어 떨어지는 element가 하나도 없다면 배열에 -1을
 
 >**제한사항**
 
-<ul>
-<li>arr은 자연수를 담은 배열입니다.</li>
-<li>정수 i, j에 대해 i ≠ j 이면 arr[i] ≠ arr[j] 입니다.</li>
-<li>divisor는 자연수입니다.</li>
-<li>array는 길이 1 이상인 배열입니다.</li>
-</ul>
+
+arr은 자연수를 담은 배열입니다.
+정수 i, j에 대해 i ≠ j 이면 arr[i] ≠ arr[j] 입니다.
+divisor는 자연수입니다.
+array는 길이 1 이상인 배열입니다.
+
 
 >**입출력 예**
 

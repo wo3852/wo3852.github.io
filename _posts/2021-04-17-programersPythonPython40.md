@@ -32,12 +32,12 @@ solution 함수의 매개변수로 다리에 올라갈 수 있는 트럭 수 bri
 
 >**제한 조건**
 
-<ul>
-<li>bridge_length는 1 이상 10,000 이하입니다.</li>
-<li>weight는 1 이상 10,000 이하입니다.</li>
-<li>truck_weights의 길이는 1 이상 10,000 이하입니다.</li>
-<li>모든 트럭의 무게는 1 이상 weight 이하입니다.</li>
-</ul>
+
+bridge_length는 1 이상 10,000 이하입니다.
+weight는 1 이상 10,000 이하입니다.
+truck_weights의 길이는 1 이상 10,000 이하입니다.
+모든 트럭의 무게는 1 이상 weight 이하입니다.
+
 
 >**입출력 예**
 
