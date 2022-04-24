@@ -1,5 +1,5 @@
 ---
-title: [1차] 프렌즈4블록
+title:  프렌즈4블록
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "[1차] 프렌즈4블록" 문제풀이입니다.

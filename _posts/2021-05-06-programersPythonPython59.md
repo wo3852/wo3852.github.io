@@ -1,5 +1,5 @@
 ---
-title: [3차] 방금그곡
+title: 방금그곡
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "[3차] 방금그곡" 문제풀이입니다.
