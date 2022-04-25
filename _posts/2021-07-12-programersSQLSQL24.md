@@ -1,5 +1,5 @@
 ---
-title: 상위 n개 레코드
+title: 상위 n개 레코드 (SQL)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "상위 n개 레코드" 문제풀이입니다.
