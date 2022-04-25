@@ -1,5 +1,5 @@
 ---
-title: NULL 처리하기
+title: NULL 처리하기 (SQL)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "NULL 처리하기" 문제풀이입니다.

@@ -1,5 +1,5 @@
 ---
-title: 다리를 지나는 트럭
+title: 다리를 지나는 트럭 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "다리를 지나는 트럭" 문제풀이입니다.

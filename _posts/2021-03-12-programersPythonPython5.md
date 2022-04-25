@@ -1,5 +1,5 @@
 ---
-title: 숫자 문자열과 영단어
+title: 숫자 문자열과 영단어 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "숫자 문자열과 영단어" 문제풀이입니다.

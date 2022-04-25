@@ -1,5 +1,5 @@
 ---
-title: 나머지가 1이 되는 수 찾기
+title: 나머지가 1이 되는 수 찾기 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "나머지가 1이 되는 수 찾기" 문제풀이입니다.

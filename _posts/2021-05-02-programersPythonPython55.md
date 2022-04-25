@@ -1,5 +1,5 @@
 ---
-title:  비밀지도
+title:  비밀지도 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "[1차] 비밀지도" 문제풀이입니다.

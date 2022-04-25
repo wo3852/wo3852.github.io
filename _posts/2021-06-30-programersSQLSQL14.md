@@ -1,5 +1,5 @@
 ---
-title: 입양 시각 구하기(1)
+title: 입양 시각 구하기(1) (SQL)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "입양 시각 구하기(1)" 문제풀이입니다.

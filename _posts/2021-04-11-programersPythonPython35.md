@@ -1,5 +1,5 @@
 ---
-title: 게임 맵 최단거리
+title: 게임 맵 최단거리 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "게임 맵 최단거리" 문제풀이입니다.

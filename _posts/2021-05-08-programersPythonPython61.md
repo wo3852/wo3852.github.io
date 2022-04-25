@@ -1,5 +1,5 @@
 ---
-title: 파일명 정렬
+title: 파일명 정렬 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "[3차] 파일명 정렬" 문제풀이입니다.

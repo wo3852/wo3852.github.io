@@ -1,5 +1,5 @@
 ---
-title: 다음 큰 숫자
+title: 다음 큰 숫자 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "다음 큰 숫자" 문제풀이입니다.

@@ -1,5 +1,5 @@
 ---
-title: 주식가격
+title: 주식가격 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "주식가격" 문제풀이입니다.

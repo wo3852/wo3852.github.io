@@ -1,5 +1,5 @@
 ---
-title: 이상한 문자 만들기
+title: 이상한 문자 만들기 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "이상한 문자 만들기" 문제풀이입니다.

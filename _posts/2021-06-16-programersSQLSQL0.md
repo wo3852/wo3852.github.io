@@ -1,5 +1,5 @@
 ---
-title: 모든 레코드 조회하기
+title: 모든 레코드 조회하기 (SQL)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "모든 레코드 조회하기" 문제풀이입니다.

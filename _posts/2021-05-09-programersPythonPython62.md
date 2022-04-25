@@ -1,5 +1,5 @@
 ---
-title: 올바른 괄호
+title: 올바른 괄호 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "올바른 괄호" 문제풀이입니다.

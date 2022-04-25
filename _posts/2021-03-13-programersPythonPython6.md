@@ -1,5 +1,5 @@
 ---
-title: 키패드 누르기
+title: 키패드 누르기 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "키패드 누르기" 문제풀이입니다.

@@ -1,5 +1,5 @@
 ---
-title: 가운데 글자 가져오기
+title: 가운데 글자 가져오기 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "가운데 글자 가져오기" 문제풀이입니다.

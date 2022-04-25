@@ -1,5 +1,5 @@
 ---
-title: 전화번호 목록
+title: 전화번호 목록 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "전화번호 목록" 문제풀이입니다.

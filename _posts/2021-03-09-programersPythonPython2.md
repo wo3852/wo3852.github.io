@@ -1,5 +1,5 @@
 ---
-title: 신규 아이디 추천
+title: 신규 아이디 추천 (Python)
 layout: post
 post-image: 'https://ifh.cc/g/paXC3t.jpg'
 description: 프로그래머스의 알고리즘 문제 "신규 아이디 추천" 문제풀이입니다.
