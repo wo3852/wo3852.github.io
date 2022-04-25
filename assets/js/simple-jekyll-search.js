@@ -108,11 +108,13 @@
             }();
             n.open("GET", t, !0), n.onreadystatechange = function i(e, n) {
                 return function() {
-                    if (4 === e.readyState && 200 === e.status) try {
-                        n(null, JSON.parse(e.responseText))
-                    } catch (t) {
-                        n(t, null)
-                    }
+                    n(null, JSON.parse(e.responseText))
+
+//                    if (4 === e.readyState && 200 === e.status) try {
+//                        n(null, JSON.parse(e.responseText))
+//                    } catch (t) {
+//                        n(t, null)
+//                    }
                 }
             }(n, e), n.send()
         }
