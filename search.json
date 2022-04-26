@@ -2,7 +2,7 @@
 layout: compress
 ---
 [
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {
       "title"    : "{{ post.title | escape }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
