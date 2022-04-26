@@ -18,7 +18,7 @@ layout: compress
         </div>
         <div id="results-container"></div>
         <!--Blog Cards Section-->
-        {% for post in paginator.posts %}
+        {% for post in site.paginator.posts %}
             {% include blog-card.html %}
         {% endfor %}
         </div>
