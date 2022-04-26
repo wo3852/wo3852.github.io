@@ -49,6 +49,8 @@ author-about:
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://wo3852.github.io/resume
 
+paginate: 10                  # 페이징 처리 개수
+paginate_path: "/page:num/"   # URL 규칙
 # SASS
 sass:
   sass_dir: _sass
